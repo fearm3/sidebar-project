@@ -1,2 +1,0 @@
-# sidebar-project
-React-Sidebar
